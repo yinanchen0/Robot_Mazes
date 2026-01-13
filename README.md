@@ -4,7 +4,7 @@ Arduino code for a four-wheel robot that autonomously navigates and exits a maze
 # Wall-Following Robot Controller (Arduino)
 This project contains Arduino code for a mobile robot that navigates along walls
 using a photodiode sensor, push buttons, and multiple motors.
-
+![Four-wheel robot maze navigation demo](170-ezgif.com-speed.gif)
 ## Overview
 - Uses analog photodiode readings to detect wall proximity
 - Implements time-based detection (`millis`) to distinguish gaps vs walls
